@@ -1,0 +1,37 @@
+BasedOnStyle: Google
+
+IndentWidth: 4
+
+TabWidth: 4
+
+UseTab: Never
+
+ObjCBlockIndentWidth: 4
+
+IndentCaseLabels: true
+
+IndentWrappedFunctionNames: true
+
+ColumnLimit: 120
+
+AccessModifierOffset: -4
+
+AllowShortFunctionsOnASingleLine: Empty
+
+AllowShortIfStatementsOnASingleLine: false
+
+AllowShortLoopsOnASingleLine: false
+
+AllowShortBlocksOnASingleLine: false
+
+AllowShortCaseLabelsOnASingleLine: false
+
+KeepEmptyLinesAtTheStartOfBlocks: false
+
+MaxEmptyLinesToKeep: 1
+
+DerivePointerAlignment: false
+
+PointerAlignment: Right
+
+Standard: Cpp11
